@@ -1,7 +1,6 @@
 # Sistema de gerenciamento de Estágios
 
 # Descrição
-
 Sistema para gerenciamento de estágios, possibilitando o CRUD das entidades Aluno, Empresa, Orientador e Estágio.
 Utilizando  Spring Boot com Spring Security, JWT e OAuth para autenticação e autorização.
 
